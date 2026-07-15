@@ -101,7 +101,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:ahmedelemary510@gmail.com">
+<a href="ahmedelemary510@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
