@@ -37,7 +37,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 </tr>
 </table>
-
+  
 ---
 
 # 🛠️ Tech Stack
