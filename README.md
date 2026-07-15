@@ -1,135 +1,135 @@
-<h1 align="center">
-  Hi 👋, I'm Ahmed Elomary
-</h1>
+<!-- ======================= HEADER ======================= -->
+
+<h1 align="center">Hi 👋, I'm Ahmed Elemary</h1>
 
 <h3 align="center">
-💻 Front-End Developer | React.js | Next.js | JavaScript
+Frontend Developer from Egypt 🇪🇬
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;React.js+Developer;Next.js+Developer;JavaScript+Enthusiast;Always+Learning+New+Things" />
+Passionate about building modern, responsive, and user-friendly web applications.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AhmedElomary&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;Next.js+Developer;Always+Learning+New+Things" />
 </p>
 
----
+<table>
+<tr>
 
-<img align="right" width="380" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<td width="55%">
 
-# 👨‍💻 About Me
+## 🚀 About Me
 
-```javascript
-const ahmed = {
-    name: "Ahmed Elomary",
-    role: "Front-End Developer",
-
-    location: "Egypt 🇪🇬",
-
-    code: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "TypeScript"
-    ],
-
-    frontend: [
-        "React.js",
-        "Next.js",
-        "Redux Toolkit",
-        "Tailwind CSS",
-        "Bootstrap",
-        "Sass"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Figma",
-        "Vercel"
-    ],
-
-    currentlyLearning: [
-        "Next.js",
-        "TypeScript",
-        "Framer Motion",
-        "Node.js"
-    ],
-
-    hobbies: [
-        "Coding",
-        "Learning",
-        "Gaming",
-        "Coffee ☕"
-    ],
-
-    goal: "Become a Professional Front-End Engineer 🚀"
-}
-```
-
----
-
-# 🚀 Current Focus
-
+- 💻 Frontend Developer
 - 🌱 Learning **Next.js**
-- ⚡ Improving React Skills
+- ⚛️ React Enthusiast
 - 🎯 Building Responsive Websites
-- 📚 Learning TypeScript
-- 💡 Writing Clean Code
-- 🔥 Open Source Contributor
+- ⚡ Clean Code Lover
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2piM2x1cWQ4enRpbzhtOWg1bDF4bXVuOWtlcnhra2lhMjN1dnUwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="300"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🛠 Tech Stack
+# 📑 Navigation
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</p>
+<a href="#-about-me">About</a> •
+<a href="#-tech-stack">Tech Stack</a> •
+<a href="#-github-stats">Stats</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-connect-with-me">Contact</a>
 
-### Front-End
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,npm" />
-</p>
-
-### Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,typescript,nodejs" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,redux,git,github,vscode,figma"/>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+|  Project One | Modern Responsive Website |
+|  Project Two | React Dashboard |
+|  Project Three | E-Commerce Website |
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00C2FF&style=for-the-badge"/>
+
+</p>
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
