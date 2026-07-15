@@ -83,7 +83,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 | Project | Description |
 |----------|-------------|
-|  Project One | |
+|  Project One | cara-store|
 |  Project Two |  |
 |  Project Three | |
 
