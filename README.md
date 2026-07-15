@@ -40,20 +40,6 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 ---
 
-# 📑 Navigation
-
-<p align="center">
-
-<a href="#-about-me">About</a> •
-<a href="#-tech-stack">Tech Stack</a> •
-<a href="#-github-stats">Stats</a> •
-<a href="#-featured-projects">Projects</a> •
-<a href="#-connect-with-me">Contact</a>
-
-</p>
-
----
-
 # 🛠️ Tech Stack
 
 <p align="center">
@@ -68,15 +54,25 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedelemary510&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelemary510&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelemary510&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ahmedelemary510&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </p>
 
@@ -86,7 +82,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedelemary510&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -96,9 +92,9 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 | Project | Description |
 |----------|-------------|
-|  Project One | Modern Responsive Website |
-|  Project Two | React Dashboard |
-|  Project Three | E-Commerce Website |
+| 🚀 Project One | Modern Responsive Website |
+| ⚛️ Project Two | React Dashboard |
+| 🛒 Project Three | E-Commerce Website |
 
 ---
 
@@ -106,7 +102,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/ahmedelemary510">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
@@ -114,7 +110,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:ahmedelemary510@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -124,7 +120,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00C2FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ahmedelemary510&label=Profile+Views&color=00C2FF&style=for-the-badge"/>
 
 </p>
 
