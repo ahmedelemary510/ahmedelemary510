@@ -68,15 +68,6 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedelemary510&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -92,9 +83,9 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 | Project | Description |
 |----------|-------------|
-| 🚀 Project One | Modern Responsive Website |
-| ⚛️ Project Two | React Dashboard |
-| 🛒 Project Three | E-Commerce Website |
+|  Project One | |
+|  Project Two |  |
+|  Project Three | |
 
 ---
 
