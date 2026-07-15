@@ -1,93 +1,135 @@
-<H2>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  Hello 👋, I'm Ahmed Alemary!
-  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-</h2>
+<h1 align="center">
+  Hi 👋, I'm Ahmed Elomary
+</h1>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h3 align="center">
+💻 Front-End Developer | React.js | Next.js | JavaScript
+</h3>
 
-<p><m>
-💻 Front End Developer <br>
-🚀 Passionate about building responsive and modern web applications.
-</em></p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;React.js+Developer;Next.js+Developer;JavaScript+Enthusiast;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AhmedElomary&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge" />
+</p>
 
 ---
 
-### 👨‍💻 About me
+<img align="right" width="380" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
-```JavaScript
-Thabit Ahmed = {
-  Name: "Ahmed Al-Omari"
-  Role: Front End Developer,
-  Location: "Egypt 🇪🇬",
+# 👨‍💻 About Me
 
-  Code: [
-    "html",
-    "CSS",
-    "javascript",
-    "typescript"
-  ]],
+```javascript
+const ahmed = {
+    name: "Ahmed Elomary",
+    role: "Front-End Developer",
 
-  Ask me about: [
-    "Front-end development"
-    "Responsive Design",
-    "reaction",
-    "next.js",
-    "User Interface/User Experience",
-    "Improve performance"
-  ]],
+    location: "Egypt 🇪🇬",
 
-  Techniques: {
-    front-end: {
-      Frames: [
-        "react.js",
-        "next.js"
-      ]],
+    code: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript"
+    ],
 
-      Design: [
-        "CSS tailwind",
+    frontend: [
+        "React.js",
+        "Next.js",
+        "Redux Toolkit",
+        "Tailwind CSS",
         "Bootstrap",
-        "Sass",
-        "CSS3"
-      ]],
+        "Sass"
+    ],
 
-      Tools: [
-        "Jet",
-        "github",
+    tools: [
+        "Git",
+        "GitHub",
         "VS Code",
-        "figma"
-      ]
-    }
-  },
+        "Figma",
+        "Vercel"
+    ],
 
-  Currently learning: [
-    "advanced interaction",
-    "next.js",
-    "typescript",
-    "frame movement"
-  ]],
+    currentlyLearning: [
+        "Next.js",
+        "TypeScript",
+        "Framer Motion",
+        "Node.js"
+    ],
 
-  Objectives: [
-    "Become a Senior Front-End Engineer"
-    "Building amazing user experiences"
-    "Contribute to open source"
-  ]],
+    hobbies: [
+        "Coding",
+        "Learning",
+        "Gaming",
+        "Coffee ☕"
+    ],
 
-  Fun fact: “I love turning UI designs into beautiful, interactive websites. ✨”
-};
+    goal: "Become a Professional Front-End Engineer 🚀"
+}
 ```
 
-### 🚀 Current focus
+---
 
-- 🌱 Learn **Next.js** and **TypeScript**
-- ⚛️ Building modern React applications
-- 🎨 Create responsive and easy-to-use interfaces
-- 📚 Improve problem-solving skills
+# 🚀 Current Focus
 
-### 🤝 Let's communicate
+- 🌱 Learning **Next.js**
+- ⚡ Improving React Skills
+- 🎯 Building Responsive Websites
+- 📚 Learning TypeScript
+- 💡 Writing Clean Code
+- 🔥 Open Source Contributor
 
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 📧 Email: your-email@example.com
-- 🌐 Portfolio: https://your-portfolio.com
+---
 
-> "First, solve the problem. Then write the code."   💙
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+### Front-End
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,npm" />
+</p>
+
+### Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,nodejs" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
