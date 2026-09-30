@@ -84,8 +84,8 @@ Passionate about building modern, responsive, and user-friendly web applications
 | Project | Description |
 |----------|-------------|
 |  Project One | cara-store|
-|  Project Two |  |
-|  Project Three | |
+|  Project Two | Portafolio |
+|  Project Three | Wheel stream |
 
 ---
 
