@@ -44,7 +44,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,redux,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,git,github,vscode,figma"/>
 
 </p>
 
